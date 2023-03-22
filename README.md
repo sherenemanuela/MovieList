@@ -1,3 +1,3 @@
 # MovieList
 
-Movie watchlist web application
+Movie watchlist web application using laravel
